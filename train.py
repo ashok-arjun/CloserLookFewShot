@@ -91,7 +91,7 @@ if __name__=='__main__':
             if params.n_shot == 1:
                 params.stop_epoch = 600
             elif params.n_shot == 5:
-                params.stop_epoch = 400
+                params.stop_epoch = 600
             else:
                 params.stop_epoch = 600 #default
      

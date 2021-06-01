@@ -1,0 +1,3 @@
+Time: 20210531-102056, Setting: miniImagenet-novel-ResNet18-protonet-aug 5shot 5way_train 5way_test, Acc: 600 Test Acc = 71.41% +- 0.68% 
+Time: 20210531-191801, Setting: miniImagenet-novel-ResNet18-protonet-aug 5shot 5way_train 5way_test, Acc: 600 Test Acc = 72.12% +- 0.69% 
+Time: 20210531-195445, Setting: miniImagenet-novel-ResNet18-protonet-aug-adapted 5shot 5way_train 5way_test, Acc: 600 Test Acc = 70.52% +- 0.72% 
